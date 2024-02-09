@@ -12,7 +12,6 @@
     background-size: cover;
     width: 100%;
     color: white;
-    height: 200vh;
     font-size: 18px;
    
 }
@@ -22,7 +21,6 @@
     background-color: rgba(85, 85, 204, 0.5);
     width: 90%;
     margin: auto;
-    height: 120vh;
     /* background: transparent; */
     font-size: 18px;
 }
