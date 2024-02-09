@@ -3,7 +3,7 @@
 
 
 
-.ossymax-container-xlg{
+.ossymax-commerce-container-xlg{
     
     background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(/images/cross-border-trade.webp);
     background-position: center;
@@ -18,11 +18,11 @@
 }
 
 
-.ossymax-container-fluid{
+.ossymax-container-lg{
     background-color: rgba(85, 85, 204, 0.5);
     width: 90%;
     margin: auto;
-    height: 100vh;
+    height: 120vh;
     /* background: transparent; */
     font-size: 18px;
 }
@@ -34,14 +34,14 @@
 
 @media screen and (max-width:900px){
 
-    .ossymax-container-xlg{
+    .ossymax-commerce-container-xlg{
         display: flex;
         flex-direction: column;
     }
 
 
 
-    .ossymax-container-fluid{
+    .ossymax-container-lg{
         display: flex;
         flex-direction: column;
     }
